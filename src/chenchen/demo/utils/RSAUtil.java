@@ -1,4 +1,4 @@
-package chenchen.demo;
+package chenchen.demo.utils;
 
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
